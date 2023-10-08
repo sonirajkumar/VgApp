@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "958782958440",
+    "project_id": "vgapp-c3239",
+    "storage_bucket": "vgapp-c3239.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958782958440:android:f34b7633c56a3c84db04dd",
+        "android_client_info": {
+          "package_name": "com.vgapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF5PUza0z2XebVgdXHkvlTgOqi2QZefqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
